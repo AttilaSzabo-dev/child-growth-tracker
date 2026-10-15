@@ -1,7 +1,17 @@
 [
-  { "id": 1, "date": "2025-10-15", "ageMonths": 0, "weight": 3.4, "length": 50.0, "headCircumference": 35.0 },
-  { "id": 2, "date": "2025-11-15", "ageMonths": 1, "weight": 4.2, "length": 54.0, "headCircumference": 37.5 },
-  { "id": 3, "date": "2025-12-01", "ageMonths": 1.5, "weight": null, "length": null, "headCircumference": 38.2 },
-  { "id": 4, "date": "2026-04-15", "ageMonths": 6, "weight": 8.0, "length": 67.0, "headCircumference": 43.0 },
-  { "id": 5, "date": "2026-10-15", "ageMonths": 12, "weight": 10.5, "length": 75.0, "headCircumference": 46.5 }
+  { "id": 1, "date": "2025-07-06", "ageMonths": 0, "weight": 2.25, "length": 45.0, "headCircumference": 30 },
+  { "id": 2, "date": "2025-08-07", "ageMonths": 1, "weight": 2.8, "length": null, "headCircumference": null },
+  { "id": 3, "date": "2025-09-07", "ageMonths": 2, "weight": 4.3, "length": 56, "headCircumference": 36 },
+  { "id": 4, "date": "2025-10-08", "ageMonths": 3, "weight": 5.2, "length": 61.0, "headCircumference": 38.5 },
+  { "id": 5, "date": "2025-11-05", "ageMonths": 4, "weight": 5.7, "length": 63.0, "headCircumference": 39.5 },
+  { "id": 6, "date": "2025-12-05", "ageMonths": 5, "weight": 6.3, "length": null, "headCircumference": 39.5 },
+  { "id": 7, "date": "2026-01-08", "ageMonths": 6, "weight": 6.6, "length": 65.0, "headCircumference": 40.5 },
+  { "id": 8, "date": "2026-02-06", "ageMonths": 7, "weight": 6.8, "length": 67.5, "headCircumference": 41.5 },
+  { "id": 9, "date": "2026-03-06", "ageMonths": 8, "weight": 7.3, "length": 69.0, "headCircumference": 42.5 },
+  { "id": 10, "date": "2026-04-04", "ageMonths": 9, "weight": 7.8, "length": null, "headCircumference": null },
+  { "id": 11, "date": "2026-05-06", "ageMonths": 10, "weight": 8.1, "length": 71.0, "headCircumference": 43.0 },
+  { "id": 12, "date": "2026-06-17", "ageMonths": 11, "weight": 9.1, "length": null, "headCircumference": null },
+  { "id": 13, "date": "2026-07-14", "ageMonths": 12, "weight": 9.2, "length": 75.0, "headCircumference": 44.0 },
+  { "id": 14, "date": "2026-09-17", "ageMonths": 14, "weight": 9.8, "length": null, "headCircumference": null },
+  { "id": 15, "date": "2026-10-14", "ageMonths": 15, "weight": 9.9, "length": 78.0, "headCircumference": 45.0 }
 ]
