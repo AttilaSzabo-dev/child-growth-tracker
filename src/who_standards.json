@@ -1,0 +1,19 @@
+[
+  { "ageMonths": 0, "whoWeight": 3.3, "whoLength": 49.9, "whoHead": 34.5 },
+  { "ageMonths": 1, "whoWeight": 4.5, "whoLength": 54.7, "whoHead": 37.3 },
+  { "ageMonths": 2, "whoWeight": 5.6, "whoLength": 58.4, "whoHead": 39.1 },
+  { "ageMonths": 3, "whoWeight": 6.4, "whoLength": 61.4, "whoHead": 40.5 },
+  { "ageMonths": 4, "whoWeight": 7.0, "whoLength": 63.9, "whoHead": 41.6 },
+  { "ageMonths": 5, "whoWeight": 7.5, "whoLength": 65.9, "whoHead": 42.5 },
+  { "ageMonths": 6, "whoWeight": 7.9, "whoLength": 67.6, "whoHead": 43.3 },
+  { "ageMonths": 7, "whoWeight": 8.3, "whoLength": 69.2, "whoHead": 44.0 },
+  { "ageMonths": 8, "whoWeight": 8.6, "whoLength": 70.6, "whoHead": 44.6 },
+  { "ageMonths": 9, "whoWeight": 8.9, "whoLength": 72.0, "whoHead": 45.0 },
+  { "ageMonths": 10, "whoWeight": 9.2, "whoLength": 73.3, "whoHead": 45.4 },
+  { "ageMonths": 11, "whoWeight": 9.4, "whoLength": 74.5, "whoHead": 45.8 },
+  { "ageMonths": 12, "whoWeight": 9.6, "whoLength": 75.7, "whoHead": 46.1 },
+  { "ageMonths": 15, "whoWeight": 10.3, "whoLength": 79.1, "whoHead": 47.0 },
+  { "ageMonths": 18, "whoWeight": 10.9, "whoLength": 82.3, "whoHead": 47.7 },
+  { "ageMonths": 21, "whoWeight": 11.5, "whoLength": 85.1, "whoHead": 48.3 },
+  { "ageMonths": 24, "whoWeight": 12.2, "whoLength": 87.8, "whoHead": 48.8 }
+]
