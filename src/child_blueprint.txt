@@ -1,0 +1,11 @@
+{
+  "id": 1,
+  "date": "2026-10-15",
+  "ageMonths": 12,
+  "weight": 10.2,
+  "whoWeight": 9.6,
+  "length": 76.5,
+  "whoLength": 75.7,
+  "headCircumference": 46.0,
+  "whoHead": 46.1
+}

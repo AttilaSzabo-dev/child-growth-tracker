@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "date": "2025-10-15",
+    "ageMonths": 0,
+    "weight": 3.4,
+    "whoWeight": 3.3,
+    "length": 50.0,
+    "whoLength": 49.9,
+    "headCircumference": 35.0,
+    "whoHead": 34.5
+  },
+  {
+    "id": 2,
+    "date": "2025-11-15",
+    "ageMonths": 1,
+    "weight": 4.2,
+    "whoWeight": 4.5,
+    "length": 54.0,
+    "whoLength": 54.7,
+    "headCircumference": 37.5,
+    "whoHead": 37.3
+  },
+  {
+    "id": 3,
+    "date": "2025-12-01",
+    "ageMonths": 1.5,
+    "weight": null,
+    "whoWeight": 5.0,
+    "length": null,
+    "whoLength": 57.0,
+    "headCircumference": 38.2,
+    "whoHead": 38.5
+  },
+  {
+    "id": 4,
+    "date": "2026-04-15",
+    "ageMonths": 6,
+    "weight": 8.0,
+    "whoWeight": 7.9,
+    "length": 67.0,
+    "whoLength": 67.6,
+    "headCircumference": 43.0,
+    "whoHead": 43.3
+  },
+  {
+    "id": 5,
+    "date": "2026-10-15",
+    "ageMonths": 12,
+    "weight": 10.5,
+    "whoWeight": 9.6,
+    "length": 75.0,
+    "whoLength": 75.7,
+    "headCircumference": 46.5,
+    "whoHead": 46.1
+  }
+]
